@@ -2,6 +2,7 @@
 # Turkey-Tutorial
 ### Author: achmed.foggie@mavs.uta.edu
 ## QGIS Tutorial (Turkey)
+##Additions by Lauren
 
 ## 1 Create a folder (also known as a directory) and name it “Turkey” on your desktop. (Right click on an empty area of your desktop, select new, and then folder)
 ## 2 Download the following Turkey data sets from the DIVA-GIS website [Google it]: Administrative Areas, Roads, and save them into the directory "Turkey" that you just created.
